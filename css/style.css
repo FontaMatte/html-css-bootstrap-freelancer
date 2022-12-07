@@ -1,0 +1,46 @@
+header {
+    background-color: #2c3e50;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+#jumbotron {
+    background-color:#1abc9c;
+}
+
+.jumbotron img {
+    width: 50%;
+}
+
+
+#about {
+    background-color: #1abc9c;
+}
+
+/* #about .btn {
+    background-color: #1abc9c;
+} */
+
+.form {
+    background-color: violet;
+    height: 300px;
+}
+
+.footer-top {
+    background-color:#3a546d;
+}
+
+.footer-bottom {
+    background-color:#2c3e50;
+}
