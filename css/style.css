@@ -39,3 +39,9 @@ form .btn {
 .footer-bottom {
     background-color:var(--dark-gray);
 }
+
+form .btn:hover {
+    background-color: var(--my-green);
+    color: white;
+    opacity: 0.7;
+}
